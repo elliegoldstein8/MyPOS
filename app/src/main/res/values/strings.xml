@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPOS</string>
+    <string name="title_activity_bottom_menu">BottomMenu</string>
+    <string name="title_home">Scan</string>
+    <string name="title_dashboard">List</string>
+    <string name="title_notifications">Settings</string>
+</resources>
